@@ -1,4 +1,4 @@
-#/usr/bin/python3
+#!/usr/bin/python3
 #Created by @perez_mascato
 import os
 import time
