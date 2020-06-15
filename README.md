@@ -16,3 +16,5 @@ sudo pip3 install pyshorteners
 cd URLCADIZ 
 python3 URLCADIZ.py
 ```
+## Example Video:
+https://youtu.be/LwVc4-JkdfA
