@@ -9,7 +9,7 @@ os.system('clear')
 
 def Main():
     print("\033[93m--------------------------------------------")
-    print("                 URLCADIZ                   ")
+    print("               URLCADIZ V 1.0                   ")
     print("   Hide custom URL for social engineering   ")
     print("                           @perez_mascato   ")
     print("--------------------------------------------")
