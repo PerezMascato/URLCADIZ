@@ -1,6 +1,7 @@
 # URLCADIZ v1.0
 ## Author: https://github.com/PerezMascato
 ## Twitter: https://twitter.com/perez_mascato
+## Email: cybermascato@gmail.com (no... i'm not pwned!)
 
 A simple script to generate a hidden url for social engineering.
 
