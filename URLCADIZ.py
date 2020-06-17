@@ -127,9 +127,8 @@ def EnlaceFacebook():
     Shortener = pyshorteners.Shortener()
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
-    
-    print(f"\nYour link is: https://www.facebook.com-profile-{Postlink}@{Withouthttp}")
     os.system('clear')
+    print(f"\nYour link is: https://www.facebook.com-profile-{Postlink}@{Withouthttp}")
     Other()
 
 def EnlaceNewyorkTimes():
