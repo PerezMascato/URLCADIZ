@@ -1,9 +1,8 @@
 #!/usr/bin/python3
 #Created by @perez_mascato
 import os
-import time
-import pyshorteners
 from time import sleep
+import pyshorteners
 
 os.system('clear')
 
